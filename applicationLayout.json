@@ -1,0 +1,16 @@
+{
+    "content": {
+        "layoutTemplate": {
+            "template": "TemplateVertical",
+            "header": "Custom header text 2",
+            "topComponent": {
+                "header": "Header top component",
+                "componentName": "LargeHeaderComponent"
+            },
+            "bottomComponent": {
+                "header": "Header bottom component",
+                "componentName": "SmallHeaderComponent"
+            }
+        }
+    }
+}
